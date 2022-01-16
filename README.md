@@ -1,0 +1,53 @@
+<h1 align="center"> 👋  hi there! im jaspinder <h1>
+
+<h3 align="center"> I'm a CS Masters student at Memorial University, NL. <h3>
+
+## about me
+* i'm currently in my second semester of MSc CS and taking
+* i’m currently taking machine learning course by Andrew Ng on top of my school studies
+* i have worked as a Data Engineer in the past after my bachelors for 2 years.
+* i'm a member of the Computer Science Student Organization and a Technical Co-ordinator at MUN Punjabi Society at my university.
+
+## projects
+
+| Index | Project | Tech Used |
+|:------:|:-----------------:|:------:|
+|   1  |[Chatbot using Deep Learning](https://github.com/jaspinderkohli/chatbot-python)| Python |
+
+## languages and tools i've worked with
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgresql" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+  <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+</p>
+<br>
+
+## connect with me
+
+<h3 align="left">my social media</h3>
+<p align="left">
+<a href="https://twitter.com/jaspinder_nl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaspinder_nl" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jaspinder-nl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaspinder-nl" height="30" width="40" /></a>
+<a href="https://leetcode.com/jaspinder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jaspinder" height="30" width="40" /></a>
+</p>
+<br>
+
+<!--
+**jaspinderkohli/jaspinderkohli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
