@@ -13,7 +13,7 @@
 | Index | Project | Tech Used |
 |:------:|:-----------------:|:------:|
 |   1  |[Chatbot using Deep Learning](https://github.com/jaspinderkohli/chatbot-python)| Python |
-|   2  |[Image-Based crop disease Detection](https://devpost.com/software/one-stop-agro?ref_content=user-portfolio&ref_feature=in_progress)| Python, Js, HTML |
+|   2  |[Image-Based crop disease Detection](https://devpost.com/software/one-stop-agro?ref_content=user-portfolio&ref_feature=in_progress)| Python, Tensorflow, Keras, scikit-learn, JS, HTML |
 
 ## languages and tools i've worked with
 
