@@ -3,10 +3,9 @@
 <h3 align="center"> I'm a CS Masters student at Memorial University, NL. <h3>
 
 ## about me
-* i'm in my second semester of MSc CS and studying Applied Algorithms, Machine Learning and Data preparation techniques
-* i’m currently also taking machine learning course by Andrew Ng on top of my school studies
+* i'm in my fifth semester of MSc CS and studying Software Engineering and Information Systems
 * i have worked as a Data Engineer in the past after my bachelors for 2 years
-* i'm a member of the Computer Science Student Organization and a Technical Co-ordinator at MUN Punjabi Society at my university
+* i'm a member of the Computer Science Student Organization and a Technical Co-ordinator at MUN Punjabi Society at the university
 
 ## projects
 
