@@ -4,7 +4,7 @@
 
 ## about me
 * i'm in my fifth semester of MSc CS and studying Software Engineering and Information Systems
-* i have worked as a Data Engineer in the past after my bachelors for 2 years
+* i have worked as a Software Developer and Data Engineer in the past
 * i'm a member of the Computer Science Student Organization and a Technical Co-ordinator at MUN Punjabi Society at the university
 
 ## projects
