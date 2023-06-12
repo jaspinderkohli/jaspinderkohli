@@ -13,7 +13,7 @@
 |:------:|:-----------------:|:------:|
 |   1  |[Weather App using OpenAI](https://github.com/jaspinderkohli/weather-app-stepzen-nextjs)| OpenAI, Next.js 13.3, Tailwind CSS, Tremor 2.0 + More! |
 |   2  |[Chatbot using Deep Learning](https://github.com/jaspinderkohli/chatbot-python)| Python |
-|   3  |[Image-Based crop disease Detection](https://devpost.com/software/one-stop-agro?ref_content=user-portfolio&ref_feature=in_progress)| Python, Tensorflow, Keras, scikit-learn, JS, HTML |
+|   4  |[URL Shortner](https://github.com/jaspinderkohli/URL_Shortner)| Python, Flask, Supabase |
 
 ## languages and tools i've worked with
 
