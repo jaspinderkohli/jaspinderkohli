@@ -3,7 +3,7 @@
 <h3 align="center"> I'm a CS Masters student at Memorial University, NL. <h3>
 
 ## about me
-* i'm in my fifth semester of MSc CS and studying Software Engineering and Information Systems
+* i'm in my last semester of MSc CS at MUN
 * i have worked as a Software Developer and Data Engineer in the past
 * i'm a member of the Computer Science Student Organization and a Technical Co-ordinator at MUN Punjabi Society at the university
 
