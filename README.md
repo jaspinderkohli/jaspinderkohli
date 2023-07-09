@@ -43,6 +43,8 @@
 </p>
 <br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaspinderkohli&label=Profile%20views&color=0e75b6&style=flat" alt="jaspinderkohli" /> </p>
+
 <!--
 **jaspinderkohli/jaspinderkohli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
