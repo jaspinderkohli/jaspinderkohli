@@ -15,6 +15,7 @@
 |   2  |[Chatbot using Deep Learning](https://github.com/jaspinderkohli/chatbot-python)| Python |
 |   3  |[Image-Based crop disease Detection](https://devpost.com/software/one-stop-agro?ref_content=user-portfolio&ref_feature=in_progress)| Python, Tensorflow, Keras, scikit-learn, JS, HTML 
 |   4  |[URL Shortner](https://github.com/jaspinderkohli/URL_Shortner)| Python, Flask, Supabase |
+|   5  |[Recipe Assistant]([https://github.com/jaspinderkohli/URL_Shortner](https://github.com/jaspinderkohli/recipe-assistant-openAI))| NextJS, OpenAI, Tailwind UI + More |
 
 ## languages and tools i've worked with
 
