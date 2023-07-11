@@ -11,11 +11,13 @@
 
 | Index | Project | Tech Used |
 |:------:|:-----------------:|:------:|
-|   1  |[Weather App using OpenAI](https://github.com/jaspinderkohli/weather-app-stepzen-nextjs)| OpenAI, Next.js 13.3, Tailwind CSS, Tremor 2.0 + More! |
-|   2  |[Chatbot using Deep Learning](https://github.com/jaspinderkohli/chatbot-python)| Python |
-|   3  |[Image-Based crop disease Detection](https://devpost.com/software/one-stop-agro?ref_content=user-portfolio&ref_feature=in_progress)| Python, Tensorflow, Keras, scikit-learn, JS, HTML 
-|   4  |[URL Shortner](https://github.com/jaspinderkohli/URL_Shortner)| Python, Flask, Supabase |
-|   5  |[Recipe Assistant](https://github.com/jaspinderkohli/recipe-assistant-openAI)| NextJS, OpenAI, Tailwind UI + More |
+|   1  |[Mindful Psychosis](https://github.com/jaspinderkohli/mindful-psychosis)| NextJS, Tailwind CSS, Supabase, StepZen, GraphQL + More |
+|   2  |[Recipe Assistant](https://github.com/jaspinderkohli/recipe-assistant-openAI)| NextJS, OpenAI, Tailwind UI + More |
+|   3  |[Weather App using OpenAI](https://github.com/jaspinderkohli/weather-app-stepzen-nextjs)| OpenAI, Next.js 13.3, Tailwind CSS, Tremor 2.0 + More! |
+|   4  |[Chatbot using Deep Learning](https://github.com/jaspinderkohli/chatbot-python)| Python |
+|   5  |[Image-Based crop disease Detection](https://devpost.com/software/one-stop-agro?ref_content=user-portfolio&ref_feature=in_progress)| Python, Tensorflow, Keras, scikit-learn, JS, HTML 
+|   6  |[URL Shortner](https://github.com/jaspinderkohli/URL_Shortner)| Python, Flask, Supabase |
+
 
 ## languages and tools i've worked with
 
