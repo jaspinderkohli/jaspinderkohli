@@ -34,6 +34,7 @@ This section highlights my open source contributions and collaborations.
 
 ## LeetCode-Sync
 - Description: A versatile and customizable vertical timeline component for React.js.
+- Used here in my portfolio - Link: [Portfolio](https://jaspinderkohli.com/)
 - Contribution 1: Added the feature to retrieve and add problem description in the solution.
    - Link: [PR #1](https://github.com/joshcai/leetcode-sync/pull/40)
 
