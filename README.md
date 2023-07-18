@@ -11,12 +11,33 @@
 
 | Index | Project | Tech Used |
 |:------:|:-----------------:|:------:|
-|   1  |[Mindful Psychosis](https://github.com/jaspinderkohli/mindful-psychosis)| NextJS, Tailwind CSS, Supabase, StepZen, GraphQL + More |
+|   1  |[Weather App using OpenAI](https://github.com/jaspinderkohli/weather-app-stepzen-nextjs)| OpenAI, Next.js 13.3, Tailwind CSS, Tremor 2.0 + More! |
 |   2  |[Recipe Assistant](https://github.com/jaspinderkohli/recipe-assistant-openAI)| NextJS, OpenAI, Tailwind UI + More |
-|   3  |[Weather App using OpenAI](https://github.com/jaspinderkohli/weather-app-stepzen-nextjs)| OpenAI, Next.js 13.3, Tailwind CSS, Tremor 2.0 + More! |
-|   4  |[Chatbot using Deep Learning](https://github.com/jaspinderkohli/chatbot-python)| Python |
-|   5  |[Image-Based crop disease Detection](https://devpost.com/software/one-stop-agro?ref_content=user-portfolio&ref_feature=in_progress)| Python, Tensorflow, Keras, scikit-learn, JS, HTML 
-|   6  |[URL Shortner](https://github.com/jaspinderkohli/URL_Shortner)| Python, Flask, Supabase |
+|   3  |[Chatbot using Deep Learning](https://github.com/jaspinderkohli/chatbot-python)| Python |
+|   4  |[Image-Based crop disease Detection](https://devpost.com/software/one-stop-agro?ref_content=user-portfolio&ref_feature=in_progress)| Python, Tensorflow, Keras, scikit-learn, JS, HTML 
+|   5  |[URL Shortner](https://github.com/jaspinderkohli/URL_Shortner)| Python, Flask, Supabase |
+
+# Open Source Contributions
+
+This section highlights my open source contributions and collaborations.
+
+| Index | Project Name                         | Description                                               |
+| ------ | ------------------------------------ | --------------------------------------------------------- |
+|1 | [Vertical timeline component for React.js](https://github.com/username/react-timeline) | A versatile and customizable vertical timeline component for React.js. |
+| 2 | [LeetCode-Sync](https://github.com/username/leetcode-sync) | A tool for syncing LeetCode problems to GitHub. |
+
+
+## LeetCode-Sync
+
+- Contribution 1: Added the feature to retrieve and add problem description in the solution.
+   - Link: [PR #1](https://github.com/joshcai/leetcode-sync/pull/40)
+
+## Vertical timeline component for React.js
+
+- Contribution 1: Made the shadowSize property configurable for icons on the timeline.
+   - Link: [PR #2](https://github.com/username/react-timeline/pull/3)
+
+
 
 
 ## languages and tools i've worked with
