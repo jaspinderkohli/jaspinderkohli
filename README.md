@@ -28,8 +28,9 @@ This section highlights my open source contributions and collaborations.
 
 | Index | Project Name                         | Description                                               |
 | ------ | ------------------------------------ | --------------------------------------------------------- |
-|1 | [Vertical timeline component for React.js](https://github.com/username/react-timeline) | A versatile and customizable vertical timeline component for React.js. |
-| 2 | [LeetCode-Sync](https://github.com/username/leetcode-sync) | A tool for syncing LeetCode problems to GitHub. |
+| 1 | [LeetCode-Sync](https://github.com/joshcai/leetcode-sync/pull/40) | A tool for syncing LeetCode problems to GitHub. |
+| 2 | [Vertical timeline component for React.js](https://github.com/stephane-monnot/react-vertical-timeline/pull/162) | A versatile and customizable vertical timeline component for React.js. |
+
 
 
 ## LeetCode-Sync
@@ -42,7 +43,7 @@ This section highlights my open source contributions and collaborations.
 
 - Description: A tool for syncing LeetCode problems on GitHub using Action.
 - Contribution 1: Made the shadowSize property configurable for icons on the timeline.
-   - Link: [PR #2](https://github.com/username/react-timeline/pull/3)
+   - Link: [PR #2](https://github.com/stephane-monnot/react-vertical-timeline/pull/162)
 
 
 
