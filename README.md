@@ -4,7 +4,7 @@
 
 ## about me
 
-* Final semester MSc CS student at MUN 🎓
+* Final term MSc CS student at MUN 🎓
 * Software Developer with a passion for web applications and problem-solving 💻
 * Active open source contributor, collaborating and sharing knowledge with the developer community 🌐
 * Tech enthusiast always exploring new advancements in computer science 🌟
