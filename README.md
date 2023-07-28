@@ -24,12 +24,14 @@
 
 # Open Source Contributions
 
-This section highlights my open source contributions and collaborations.
+This section highlights my open-source contributions and collaborations.
 
 | Index | Project Name                         | Description                                               |
 | ------ | ------------------------------------ | --------------------------------------------------------- |
 | 1 | [LeetCode-Sync](https://github.com/joshcai/leetcode-sync/pull/40) | A tool for syncing LeetCode problems to GitHub. |
 | 2 | [Vertical timeline component for React.js](https://github.com/stephane-monnot/react-vertical-timeline/pull/162) | A versatile and customizable vertical timeline component for React.js. |
+| 3 | [Hashing Utility](https://github.com/larymak/Python-project-Scripts/pull/309) | Password hashing utility added for hash algos like MD5, SHA-1.. |
+| 4 | [Password Strength](https://github.com/larymak/Python-project-Scripts/pull/310) | Script that checks password strength |
 
 
 
@@ -45,7 +47,12 @@ This section highlights my open source contributions and collaborations.
 - Contribution 1: Made the shadowSize property configurable for icons on the timeline.
    - Link: [PR #2](https://github.com/stephane-monnot/react-vertical-timeline/pull/162)
 
-
+## Python Scripts
+- Description: List of Python scripts for beginner projects.
+- Contribution 1: Password hashing utility added for hash algos like MD5, SHA-1
+   - Link: [PR #3](https://github.com/larymak/Python-project-Scripts/pull/309)
+- Contribution 2: Script that checks password strength
+   - Link: [PR #4](https://github.com/larymak/Python-project-Scripts/pull/310)
 
 
 ## languages and tools i've worked with
