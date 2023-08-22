@@ -54,6 +54,10 @@ This section highlights my open-source contributions and collaborations.
 - Contribution 2: Script that checks password strength
    - Link: [PR #4](https://github.com/larymak/Python-project-Scripts/pull/310)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jaspinderkohli&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jaspinderkohli&theme=dark&hide_border=false)<br/>
+
 
 ## languages and tools i've worked with
 
