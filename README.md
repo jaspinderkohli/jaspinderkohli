@@ -1,6 +1,6 @@
 <h1 align="center"> 👋  hi there! im jaspinder <h1>
 
-<h3 align="center"> I'm a CS Masters student at Memorial University, NL. <h3>
+<h3 align="center"> I'm a CS Masters grad at Memorial University of NewfoundLand. <h3>
 
 ## about me
 
