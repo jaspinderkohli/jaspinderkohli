@@ -17,9 +17,10 @@
 |:------:|:-----------------:|:------:|
 |   1  |[Weather App using OpenAI](https://github.com/jaspinderkohli/weather-app-stepzen-nextjs)| OpenAI, Next.js 13.3, Tailwind CSS, Tremor 2.0 + More! |
 |   2  |[Recipe Assistant](https://github.com/jaspinderkohli/recipe-assistant-openAI)| NextJS, OpenAI, Tailwind UI + More |
-|   3  |[Chatbot using Deep Learning](https://github.com/jaspinderkohli/chatbot-python)| Python |
-|   4  |[Image-Based crop disease Detection](https://devpost.com/software/one-stop-agro?ref_content=user-portfolio&ref_feature=in_progress)| Python, Tensorflow, Keras, scikit-learn, JS, HTML 
-|   5  |[URL Shortner](https://github.com/jaspinderkohli/URL_Shortner)| Python, Flask, Supabase |
+|   3  |[React Project](https://github.com/jaspinderkohli/learning-react)| React and Bootstrap |
+|   4  |[Chatbot using Deep Learning](https://github.com/jaspinderkohli/chatbot-python)| Python |
+|   5  |[Image-Based crop disease Detection](https://devpost.com/software/one-stop-agro?ref_content=user-portfolio&ref_feature=in_progress)| Python, Tensorflow, Keras, scikit-learn, JS, HTML 
+|   6  |[URL Shortner](https://github.com/jaspinderkohli/URL_Shortner)| Python, Flask, Supabase |
 
 # Open Source Contributions
 
