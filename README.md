@@ -21,6 +21,7 @@
 |   4  |[Chatbot using Deep Learning](https://github.com/jaspinderkohli/chatbot-python)| Python |
 |   5  |[Image-Based crop disease Detection](https://devpost.com/software/one-stop-agro?ref_content=user-portfolio&ref_feature=in_progress)| Python, Tensorflow, Keras, scikit-learn, JS, HTML 
 |   6  |[URL Shortner](https://github.com/jaspinderkohli/URL_Shortner)| Python, Flask, Supabase |
+|   7  |[TextUtils](https://github.com/jaspinderkohli/TextUtils-React?tab=readme-ov-file)| React, CSS |
 
 # Open Source Contributions
 
