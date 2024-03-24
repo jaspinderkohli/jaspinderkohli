@@ -15,13 +15,14 @@
 
 | Index | Project | Tech Used |
 |:------:|:-----------------:|:------:|
-|   1  |[Weather App using OpenAI](https://github.com/jaspinderkohli/weather-app-stepzen-nextjs)| OpenAI, Next.js 13.3, Tailwind CSS, Tremor 2.0 + More! |
-|   2  |[Recipe Assistant](https://github.com/jaspinderkohli/recipe-assistant-openAI)| NextJS, OpenAI, Tailwind UI + More |
-|   3  |[TextUtils](https://github.com/jaspinderkohli/TextUtils-React)| React and Bootstrap |
-|   4  |[Chatbot using Deep Learning](https://github.com/jaspinderkohli/chatbot-python)| Python |
-|   5  |[Image-Based crop disease Detection](https://devpost.com/software/one-stop-agro?ref_content=user-portfolio&ref_feature=in_progress)| Python, Tensorflow, Keras, scikit-learn, JS, HTML 
-|   6  |[URL Shortner](https://github.com/jaspinderkohli/URL_Shortner)| Python, Flask, Supabase |
-|   7  |[TextUtils](https://github.com/jaspinderkohli/TextUtils-React?tab=readme-ov-file)| React, CSS |
+|   1  |[News App using newsapi.org](https://github.com/jaspinderkohli/news-app)| React, Axios, React Router, Bootstrap |
+|   2  |[Weather App using OpenAI](https://github.com/jaspinderkohli/weather-app-stepzen-nextjs)| OpenAI, Next.js 13.3, Tailwind CSS, Tremor 2.0 + More! |
+|   3  |[Recipe Assistant](https://github.com/jaspinderkohli/recipe-assistant-openAI)| NextJS, OpenAI, Tailwind UI + More |
+|   4  |[TextUtils](https://github.com/jaspinderkohli/TextUtils-React)| React and Bootstrap |
+|   5  |[Chatbot using Deep Learning](https://github.com/jaspinderkohli/chatbot-python)| Python |
+|   6  |[Image-Based crop disease Detection](https://devpost.com/software/one-stop-agro?ref_content=user-portfolio&ref_feature=in_progress)| Python, Tensorflow, Keras, scikit-learn, JS, HTML 
+|   7  |[URL Shortner](https://github.com/jaspinderkohli/URL_Shortner)| Python, Flask, Supabase |
+|   8  |[TextUtils](https://github.com/jaspinderkohli/TextUtils-React?tab=readme-ov-file)| React, CSS |
 
 # Open Source Contributions
 
