@@ -34,6 +34,7 @@ This section highlights my open-source contributions and collaborations.
 | 2 | [Vertical timeline component for React.js](https://github.com/stephane-monnot/react-vertical-timeline/pull/162) | A versatile and customizable vertical timeline component for React.js. |
 | 3 | [Hashing Utility](https://github.com/larymak/Python-project-Scripts/pull/309) | Password hashing utility added for hash algos like MD5, SHA-1.. |
 | 4 | [Password Strength](https://github.com/larymak/Python-project-Scripts/pull/310) | Script that checks password strength |
+| 5 | [Praxis UI](https://github.com/praxis-isncsci/ui/pull/240) | Body Diagram alignment fix |
 
 
 
@@ -55,6 +56,12 @@ This section highlights my open-source contributions and collaborations.
    - Link: [PR #3](https://github.com/larymak/Python-project-Scripts/pull/309)
 - Contribution 2: Script that checks password strength
    - Link: [PR #4](https://github.com/larymak/Python-project-Scripts/pull/310)
+
+## Praxis UI
+- Description: This project contains a collection of web components, icons, and styles that can be used to build interfaces to classify ISNCSCI exams.
+- Contribution 1: Body Diagram alignment issue
+   - Link: [PR #5](https://github.com/praxis-isncsci/ui/pull/240)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jaspinderkohli&theme=dark&hide_border=false)<br/>
