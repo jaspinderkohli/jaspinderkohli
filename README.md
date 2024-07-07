@@ -42,7 +42,6 @@ This section highlights my open-source contributions and collaborations.
 - Description: A tool for syncing LeetCode problems to GitHub using Action.
 - Contribution 1: Added the feature to retrieve and add problem description in the solution.
    - Link: [PR #1](https://github.com/joshcai/leetcode-sync/pull/40)
-   - https://github.com/joshcai/leetcode-sync/pull/63
 - Contribution 2: Fix for pipeline failing to run
    - Link: [PR #2](https://github.com/joshcai/leetcode-sync/pull/63)
 
