@@ -1,114 +1,173 @@
-<h1 align="center"> 👋  hi there! im jaspinder <h1>
+<h1 align="center">Hey 👋, I'm Jaspinder Singh</h1>
 
-<h3 align="center"> I'm a CS Masters grad at Memorial University of NewfoundLand. <h3>
+<h3 align="center">
+Backend & Cloud Engineer ☁️ • AWS • Serverless • Distributed Systems
+</h3>
 
-## about me
-
-* Software Developer with a passion for web applications and problem-solving 💻
-* Active open source contributor, collaborating and sharing knowledge with the developer community 🌐
-* Tech enthusiast always exploring new advancements in computer science 🌟
-* Innovative problem solver tackling complex challenges ⚡
-
-
-  
-## projects
-
-| Index | Project | Tech Used |
-|:------:|:-----------------:|:------:|
-|   1  |[News App using newsapi.org](https://github.com/jaspinderkohli/news-app)| React, Axios, React Router, Bootstrap |
-|   2  |[Weather App using OpenAI](https://github.com/jaspinderkohli/weather-app-stepzen-nextjs)| OpenAI, Next.js 13.3, Tailwind CSS, Tremor 2.0 + More! |
-|   3  |[Recipe Assistant](https://github.com/jaspinderkohli/recipe-assistant-openAI)| NextJS, OpenAI, Tailwind UI + More |
-|   4  |[TextUtils](https://github.com/jaspinderkohli/TextUtils-React)| React and Bootstrap |
-|   5  |[Chatbot using Deep Learning](https://github.com/jaspinderkohli/chatbot-python)| Python |
-|   6  |[Image-Based crop disease Detection](https://devpost.com/software/one-stop-agro?ref_content=user-portfolio&ref_feature=in_progress)| Python, Tensorflow, Keras, scikit-learn, JS, HTML 
-|   7  |[URL Shortner](https://github.com/jaspinderkohli/URL_Shortner)| Python, Flask, Supabase |
-|   8  |[TextUtils](https://github.com/jaspinderkohli/TextUtils-React?tab=readme-ov-file)| React, CSS |
-
-# Open Source Contributions
-
-This section highlights my open-source contributions and collaborations.
-
-| Index | Project Name                         | Description                                               |
-| ------ | ------------------------------------ | --------------------------------------------------------- |
-| 1 | [LeetCode-Sync](https://github.com/joshcai/leetcode-sync/graphs/contributors) | A tool for syncing LeetCode problems to GitHub. |
-| 2 | [Vertical timeline component for React.js](https://github.com/stephane-monnot/react-vertical-timeline/pull/162) | A versatile and customizable vertical timeline component for React.js. |
-| 3 | [Hashing Utility](https://github.com/larymak/Python-project-Scripts/pull/309) | Password hashing utility added for hash algos like MD5, SHA-1.. |
-| 4 | [Password Strength](https://github.com/larymak/Python-project-Scripts/pull/310) | Script that checks password strength |
-| 5 | [Praxis UI](https://github.com/praxis-isncsci/ui/pull/240) | Body Diagram alignment fix |
-
-
-
-## LeetCode-Sync
-- Description: A tool for syncing LeetCode problems to GitHub using Action.
-- Contribution 1: Added the feature to retrieve and add problem description in the solution.
-   - Link: [PR #1](https://github.com/joshcai/leetcode-sync/pull/40)
-- Contribution 2: Fix for pipeline failing to run
-   - Link: [PR #2](https://github.com/joshcai/leetcode-sync/pull/63)
-
-## Vertical timeline component for React.js
-
-- Description: A versatile and customizable vertical timeline component for React.js.
-- Used here in my portfolio - Link: [Portfolio](https://jaspinderkohli.com/)
-- Contribution 1: Made the shadowSize property configurable for icons on the timeline.
-   - Link: [PR #3](https://github.com/stephane-monnot/react-vertical-timeline/pull/162)
-
-## Python Scripts
-- Description: List of Python scripts for beginner projects.
-- Contribution 1: Password hashing utility added for hash algos like MD5, SHA-1
-   - Link: [PR #4](https://github.com/larymak/Python-project-Scripts/pull/309)
-- Contribution 2: Script that checks password strength
-   - Link: [PR #5](https://github.com/larymak/Python-project-Scripts/pull/310)
-
-## Praxis UI
-- Description: This project contains a collection of web components, icons, and styles that can be used to build interfaces to classify ISNCSCI exams.
-- Contribution 1: Body Diagram alignment issue
-   - Link: [PR #5](https://github.com/praxis-isncsci/ui/pull/240)
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=jaspinderkohli&theme=dark&hide_border=false)<br/>
-
-
-## languages and tools i've worked with
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://nextjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40" style="background-color: white;"/> </a>
-  <a href="https://stepzen.com/" target="_blank"> <img src="https://stepzen.com/images/logo.svg" alt="stepzen" width="40" height="40"/> </a>
-  <a href="https://graphql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/> </a>
+<p align="center">
+Building scalable backend systems, cloud-native applications, and solving real-world engineering problems 🚀
 </p>
 
-<br>
+---
 
-## connect with me
+<div align="center">
 
-<h3 align="left">my social media</h3>
-<p align="left">
-<a href="https://twitter.com/jaspinder_nl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaspinder_nl" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/jaspinder-nl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaspinder-nl" height="30" width="40" /></a>
-<a href="https://leetcode.com/jaspinder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jaspinder" height="30" width="40" /></a>
+![](https://komarev.com/ghpvc/?username=jaspinderkohli&label=Profile+Views&color=0e75b6&style=for-the-badge)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jaspinder%20Singh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jaspinder-nl)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome)](https://jaspinderkohli.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-jaspinder-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/jaspinder)
+
+</div>
+
+---
+
+# 💫 About Me
+
+💻 Software Developer based in Canada 🇨🇦  
+☁️ Working with AWS serverless and cloud-native systems  
+⚡ Interested in backend engineering, distributed systems, and scalable architectures  
+🔍 Enjoy solving real engineering problems beyond tutorial projects  
+🌱 Currently focusing on:
+- Event-driven systems
+- OpenSearch pipelines
+- AWS architecture
+- Backend platform engineering
+- System design
+
+---
+
+# 🚀 Current Focus
+
+🔨 Building production-style backend and cloud engineering projects  
+📚 Learning deeper infrastructure and distributed systems concepts  
+🧠 Improving architecture, observability, and reliability engineering skills  
+
+---
+
+# 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go,bash" />
 </p>
-<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaspinderkohli&label=Profile%20views&color=0e75b6&style=flat" alt="jaspinderkohli" /> </p>
+### ☁️ Cloud & Backend
+<p>
+<img src="https://skillicons.dev/icons?i=aws,nodejs,express,docker,graphql,postgres,mongodb" />
+</p>
 
-<!--
-**jaspinderkohli/jaspinderkohli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚡ Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+</p>
 
-Here are some ideas to get you started:
+### 🔧 Tools & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,vscode,postman" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 📌 Featured Projects
+
+## 🔍 Audit Log API *(Currently Building)*
+Production-style backend service for recording and querying audit events.
+
+### Features
+- REST APIs
+- Event logging
+- Search & filtering
+- Authentication & RBAC
+- DynamoDB/OpenSearch integration
+- Serverless AWS architecture
+
+**Tech:** AWS Lambda, API Gateway, DynamoDB, OpenSearch, Node.js, TypeScript
+
+---
+
+## 🔗 URL Shortener
+Backend application for creating and managing short URLs with analytics support.
+
+**Tech:** Python, Flask, Supabase
+
+👉 https://github.com/jaspinderkohli/URL_Shortner
+
+---
+
+## 🌾 Crop Disease Detection
+ML-based application for identifying crop diseases from images.
+
+**Tech:** Python, TensorFlow, Keras, scikit-learn
+
+👉 https://devpost.com/software/one-stop-agro
+
+---
+
+## 🤖 Deep Learning Chatbot
+Neural-network-based chatbot built using Python.
+
+**Tech:** Python, NLP
+
+👉 https://github.com/jaspinderkohli/chatbot-python
+
+---
+
+# 🌐 Open Source Contributions
+
+| Project | Contribution |
+|---|---|
+| 🧠 LeetCode-Sync | Added problem-description sync + fixed GitHub Actions issues |
+| 📅 React Vertical Timeline | Added configurable icon shadow support |
+| 🔐 Python Project Scripts | Added password hashing & password strength utilities |
+| 🩻 Praxis UI | Fixed body diagram alignment issue |
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=jaspinderkohli&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=jaspinderkohli&theme=tokyonight&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaspinderkohli&theme=tokyonight&hide_border=false&layout=compact)
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+✅ Build stronger backend/cloud portfolio projects  
+✅ Improve system design & architecture skills  
+✅ Learn Go for infrastructure engineering  
+✅ Contribute more to open source  
+✅ Build production-quality AWS projects  
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/jaspinder-nl" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
+<a href="https://leetcode.com/jaspinder" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="40"/>
+</a>
+
+<a href="https://jaspinderkohli.com" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+</p>
+
+---
+
+<div align="center">
+
+### ⚡ “Build things that solve real problems.”
+
+</div>
